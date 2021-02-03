@@ -1,13 +1,23 @@
 .before {
   float: left;
+  margin: 12px;
+  border: 2px solid goldenrod;
+  padding: 4px;
   background-color: lightblue;
 }
 
 .middle {
   float: center;
+  margin: 12px;
+  border: 2px solid blueviolet;
+  padding: 4px;
+  background-color: lightgray;
 }
 
 .end {
   float: right;
+  margin: 12px;
+  border: 2px solid blue;
+  padding: 4px;
   background-color: lightcoral;
 }
