@@ -1,12 +1,12 @@
 # Interior Decorator
 
-#### Floats Practice for Epicodus, 2/2/2021
+#### Floats and Box Model Practice for Epicodus, 2/3/2021
 
 #### By Lucain Miller
 
 ## Description
 
-This website was made to practuse floating classes to the left, right and center of the page, using the process of interior decorating as a subject.
+This website was made to practuse floating classes to the left, right and center of the page, and box model elements, using the process of interior decorating as a subject.
 
 ## Setup/Installation Requirements
 
